@@ -5,4 +5,4 @@ permalink: /portfolio/
 ---
 # Printed Work
 
-![Image]({{ site.baseurl }}/_site/assets/image/3503.jpeg)
+![Image]({{ site.baseurl }}/_site/assets/image/3503.jpg)
