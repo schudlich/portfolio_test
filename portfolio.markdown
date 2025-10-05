@@ -5,4 +5,4 @@ permalink: /portfolio/
 ---
 # Printed Work
 
-assets/img/3503.jpeg
+![Image]({{"assets/img/3503.jpeg", | relative_url}})
