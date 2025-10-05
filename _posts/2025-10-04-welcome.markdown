@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2025-10-04 21:30:03 -0400
+categories: personal
+---
+This is a test post to see how it looks.
