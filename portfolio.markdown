@@ -5,4 +5,4 @@ permalink: /portfolio/
 ---
 # Printed Work
 
-/assets/img/3503.jpeg
+assets/img/3503.jpeg
